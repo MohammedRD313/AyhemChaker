@@ -3,7 +3,6 @@ import shutil
 from asyncio import sleep
 from telethon import events
 
-from . import zedub
 from ..core.logger import logging
 from ..helpers.utils import _format
 from ..sql_helper.globals import addgvar, delgvar, gvarstatus
