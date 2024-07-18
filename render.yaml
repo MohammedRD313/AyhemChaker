@@ -14,8 +14,6 @@ services:
     envVars:
       - key: ALIVE_NAME
         sync: false
-        key: OWNER_ID
-        sync:{1854384004}
       - key: APP_ID 
         sync: false
       - key: API_HASH 
